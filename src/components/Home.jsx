@@ -23,6 +23,7 @@ function Home() {
       <div className="max-w-6xl mx-auto mt-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
 
         <div className="bg-white p-4 rounded-lg shadow-sm border">
+          <div className="text-4xl mb-3 text-center">✍️</div>
           <h2 className="text-xl font-semibold mb-4 text-purple-900 text-center">
             Write Blogs
           </h2>
@@ -34,6 +35,7 @@ function Home() {
         </div>
 
         <div className="bg-white p-4 rounded-lg shadow-sm border">
+          <div className="text-4xl mb-3 text-center">📚</div>
           <h2 className="text-xl font-semibold mb-4 text-purple-900 text-center">
             Read Articles
           </h2>
@@ -45,6 +47,7 @@ function Home() {
         </div>
 
         <div className="bg-white p-4 rounded-lg shadow-sm border">
+          <div className="text-4xl mb-3 text-center">🤝</div>
           <h2 className="text-xl font-semibold mb-4 text-purple-900 text-center">
             Community
           </h2>
@@ -56,6 +59,7 @@ function Home() {
         </div>
 
         <div className="bg-white p-4 rounded-lg shadow-sm border">
+          <div className="text-4xl mb-3 text-center">🚀</div>
           <h2 className="text-xl font-semibold mb-4 text-purple-900 text-center">
             Improve Skills
           </h2>
